@@ -69,14 +69,14 @@ The flight module is responsible only for defining the flight data model and rel
       
 
 ---
-##🎯 What This Project Demonstrates
+🎯 What This Project Demonstrates
   -Modular C programming
   -Linked list–based queue implementation
   -Priority scheduling logic
   -Memory management (malloc / free)
   -API design and abstraction
-
-##📌 Notes
+---
+📌 Notes
 This project was developed as part of an academic assignment and later refined to follow clean code and modular design principles suitable for public presentation.
 ---
 
@@ -91,11 +91,11 @@ cd build
 cmake ..
 make
 ```
-##Run the program:
+Run the program:
 ```bash
 ./flight_departure_scheduler
 ```
-##🧪 Example Output
+🧪 Example Output
 ```bash
 Flight departure order:
 Flight ID: 3 | Priority: Emergency | Arrival Time: 2 | Service Time: 3
