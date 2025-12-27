@@ -78,17 +78,9 @@ The flight module is responsible only for defining the flight data model and rel
 
 ##📌 Notes
 This project was developed as part of an academic assignment and later refined to follow clean code and modular design principles suitable for public presentation.
-
-## 🛠 Build and Run
-
-This project uses **CMake** for building.
-
-### Build steps:
-
 ---
 
 ## 🛠 Build and Run
-
 This project uses **CMake** for building.
 
 ### Build steps:
