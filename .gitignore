@@ -35,6 +35,9 @@
 *.i*86
 *.x86_64
 *.hex
+# CLion / CMake
+*.idea/
+*cmake-build-*/
 
 # Debug files
 *.dSYM/
