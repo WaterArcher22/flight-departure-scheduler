@@ -1,6 +1,3 @@
-//
-// Created by dmura on 27.12.2025.
-//
 
 #ifndef SCHEDULER_H
 #define SCHEDULER_H
@@ -18,3 +15,4 @@ int isSchedulerEmpty(const Scheduler* scheduler);
 Flight getNextFlight(Scheduler* scheduler);
 
 #endif //SCHEDULER_H
+
