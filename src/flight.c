@@ -22,7 +22,7 @@ void printFlight(const Flight* flight) {
             break;
         case INTERNATIONAL:
             priorityStr="International";
-            breeak;
+            break;
         case DOMESTICS:
             priorityStr="Domestics";
             break;
@@ -30,4 +30,5 @@ void printFlight(const Flight* flight) {
             priorityStr="Unknown";
     }
     printf("Flight ID: %d | Priority: %s | Arival Time: %d | Service Time %d \n",flight->flightID,priorityStr,flight->arival_time,flight->servie_time);
+
 }
