@@ -1,6 +1,3 @@
-//
-// Created by dmura on 27.12.2025.
-//
 
 #ifndef QUEUE_H
 #define QUEUE_H
@@ -22,3 +19,4 @@ int isQueueEmpty(const Queue* q);
 void enqueue(Queue* q, Flight f);
 Flight dequeue(Queue* q);
 #endif //QUEUE_H
+
